@@ -1,4 +1,5 @@
 "# indexed_search_query" 
+
 Trying to build a skeleton of the project
 "node" string in the QueryPerser.java file represents a node in the stack
 db.properties file has two methods. One method create the files and other method return a string array with the parth of the files.
