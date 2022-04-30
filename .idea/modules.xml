@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BIndexTree.iml" filepath="$PROJECT_DIR$/BIndexTree.iml" />
+    </modules>
+  </component>
+</project>
